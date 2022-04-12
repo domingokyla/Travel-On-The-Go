@@ -53,27 +53,30 @@ h2 {
     color: #3e3e3e;
 }
 
-.philippines {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 20px;
-    margin-bottom: 40px;
+h3 {
+    color: #80adbc;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    margin-top: 40px;
+    margin-bottom: 50px;
 }
 
-h3 {
+.whoweare {
+    background-color: #ffffff;
+    width: 1150px;
+    margin-left: 180px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+h5 {
     font-family: Arial;
     font-size: 20px;
     font-weight: 900px;
     color: #3e3e3e;
     text-align: center;
-}
-
-.main-title {
-    color: #80adbc;
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Times New Roman';
-    margin-top: 0px;
+    line-height: 10mm;
 }
 
 p {
@@ -84,15 +87,6 @@ p {
     margin-right: 400px;
     font-size: 20px;
     margin-bottom: 15mm;
-}
-
-h5 {
-    font-family: Arial;
-    font-size: 20px;
-    font-weight: 900px;
-    color: #3e3e3e;
-    text-align: center;
-    line-height: 10mm;
 }
 
 main nav {
