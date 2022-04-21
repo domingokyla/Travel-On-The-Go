@@ -1,0 +1,126 @@
+body {
+    margin: 0px;
+    background-color: #ffffff;
+    }
+
+header {
+    color: #80adbc;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    color: #ffffff;
+    background-color: #80adbc;
+}
+
+nav {
+    border-style: solid;
+    border-color: #dadadc;
+    border-width: 0.5px;
+    background-color: #ffffff;
+    font-family: Arial;
+    text-align: right;
+}
+
+.logo {
+    width: 115px;
+    margin-left: 250px;
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav li {
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 900px;
+    color: #3e3e3e;
+}
+
+h3 {
+    color: #80adbc;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.chocolatehills {
+    background-color: #ffffff;
+    width: 750px;
+    margin-left: 385px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 900px;
+    color: #3e3e3e;
+    margin-left: 400px;
+    text-align: left;
+    line-height: 10mm;
+}
+
+p {
+    color: #3e3e3e;
+    line-height: 10mm;
+    font-family: Arial;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 20px;
+    margin-bottom: 15mm;
+}
+
+.accordion {
+
+}
+
+main nav {
+    border-style: solid;
+    border-color: #dadadc;
+    border-width: 0.5px;
+    background-color: #80adbc;
+    font-family: Arial;
+    text-align: center;
+}
+
+main nav ul {
+    list-style: none;
+}
+
+main nav a {
+    text-decoration: none;
+}
+
+main nav li {
+    display: inline-block;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h6 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 900px;
+    color: #ffffff;
+}
