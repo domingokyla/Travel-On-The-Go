@@ -89,6 +89,25 @@ p {
     margin-bottom: 15mm;
 }
 
+h5 {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: 900px;
+    color: #306e83;
+    text-align: center;
+    line-height: 10mm;
+}
+
+.back {
+    background-color: white;
+    display: inline-block;
+    padding-right: 97.5px;
+    padding-left: 97.5px;
+    padding-top: 1px;
+    padding-bottom: 1px;  
+    margin-left: 620px;
+}
+
 main nav {
     border-style: solid;
     border-color: #dadadc;

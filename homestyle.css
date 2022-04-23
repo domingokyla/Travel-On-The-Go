@@ -68,7 +68,7 @@ h3 {
     text-align: center;
 }
 
-.main-title {
+h4 {
     color: #80adbc;
     text-align: center;
     font-size: 40px;
@@ -88,11 +88,21 @@ p {
 
 h5 {
     font-family: Arial;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 900px;
-    color: #3e3e3e;
+    color: #306e83;
     text-align: center;
     line-height: 10mm;
+}
+
+.next {
+    background-color: white;
+    display: inline-block;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 1px;
+    padding-bottom: 1px;  
+    margin-left: 620px;
 }
 
 main nav {
