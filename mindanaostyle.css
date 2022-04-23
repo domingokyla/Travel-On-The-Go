@@ -54,29 +54,32 @@ h2 {
 }
  
 h3 {
-    color: #80adbc;
+    color: #306e83;
     text-align: center;
     font-size: 50px;
     font-family: 'Times New Roman';
     margin-top: 40px;
 }
  
-.parag20 {
+.title {
     font-family: Arial;
     font-size: 25px;
-    font-weight: bold;
+    font-weight: bolder;
     color: #3e3e3e;
     text-align: left;
     margin-left: 400px;
     margin-top: 40px;
 }
 
-.siargao {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 10px;
+.activity {
+    margin-top: 40px;
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #306e83;
+    text-align: center;
 }
- 
+
 p {
     color: #3e3e3e;
     line-height: 10mm;
@@ -84,135 +87,12 @@ p {
     margin-left: 400px;
     margin-right: 400px;
     font-size: 20px;
-    margin-bottom: 10mm;
-}
- 
-.parag18 {
     margin-top: 40px;
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-bottom: 0px;
 }
 
-.surfing {
+.image {
     width: 750px;
     margin-left: 385px;
-    margin-top: 40px;
-}
-
-.parag17 {
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-top: 40px;
-    margin-bottom: 0px;
-}
-
-.diving {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 40px;
-}
-
-.parag19 {
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bold;
-    color: #3e3e3e;
-    text-align: left;
-    margin-left: 400px;
-    margin-top: 40px;
-}
-
-.eden {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 10px;
-}
-
-.parag21 {
-    margin-top: 40px;
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-bottom: 0px;
-}
-
-.Eden-Nature-Park-Davao-City {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 40px;
-}
-
-.park {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 40px;
-}
-
-.parag22 {
-    margin-top: 40px;
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-bottom: 0px;
-}
-
-.parag23 {
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bold;
-    color: #3e3e3e;
-    text-align: left;
-    margin-left: 400px;
-    margin-top: 40px;
-}
-
-.Malagos {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 10px;
-}
-
-.tree {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 40px;
-}
-
-.bird {
-    width: 750px;
-    margin-left: 385px;
-    margin-top: 40px;
-}
-
-.parag24 {
-    margin-top: 40px;
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-bottom: 0px;
-}
-
-.parag25 {
-    margin-top: 40px;
-    font-family: Arial;
-    font-size: 25px;
-    font-weight: bolder;
-    color: #80adbc;
-    text-align: center;
-    margin-bottom: 0px;
 }
 
 main nav {
